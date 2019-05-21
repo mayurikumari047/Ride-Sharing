@@ -1,4 +1,6 @@
 # Ride-Sharing
+This was a group project as part of Advance Database Mangement coursework.
+
 - Uses MySQL and Python
 - Fixed Source: JFK
 - Destinations: Manhattan Borough
